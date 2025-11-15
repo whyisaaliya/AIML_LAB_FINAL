@@ -1,0 +1,74 @@
+[
+  {
+    "animal_name": "Aardvark",
+    "habitat_type": "Savanna",
+    "diet": "Insectivore",
+    "conservation_status": "Least Concern Concern"
+  },
+  {
+    "animal_name": "Antelope",
+    "habitat_type": "Grasslands",
+    "diet": "Herbivore",
+    "conservation_status": "Near Threatened"
+  },
+  {
+    "animal_name": "Bass",
+    "habitat_type": "Freshwater",
+    "diet": "Carnivore",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "animal_name": "Bear",
+    "habitat_type": "Forest",
+    "diet": "Omnivoree",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "animal_name": "Boar",
+    "habitat_type": "Forest",
+    "diet": "Omnivore",
+    "conservation_status": "Least Concern Concern"
+  },
+  {
+    "animal_name": "Buffalo",
+    "habitat_type": "Grasslands",
+    "diet": "Herbivore",
+    "conservation_status": "Endangered"
+  },
+  {
+    "animal_name": "Calf",
+    "habitat_type": "Domestic",
+    "diet": "Herbivore",
+    "conservation_status": "Unknown"
+  },
+  {
+    "animal_name": "Carp",
+    "habitat_type": "Freshwater",
+    "diet": "Omnivoree",
+    "conservation_status": "Least Concern Concern"
+  },
+  {
+    "animal_name": "Catfish",
+    "habitat_type": "Freshwater",
+    "diet": "Carnivore",
+    "conservation_status": "Unknown"
+  },
+  {
+    "animal_name": "Clam",
+    "habitat_type": "Marine",
+    "diet": "Filter Feeder",
+    "conservation_status": "Least Concern Concern"
+  },
+  {
+    "animal_name": "Crab",
+    "habitat_type": "Marine/Coastal",
+    "diet": "Omnivoree",
+    "conservation_status": "Least Concern Concern"
+  },
+  {
+    "animal_name": "Deer",
+    "habitat_type": "Forest",
+    "diet": "Herbivore",
+    "conservation_status": "Vulnerable"
+  }
+]
